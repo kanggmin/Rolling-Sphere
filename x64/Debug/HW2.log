@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\CS6533\HW2\HW2\main.cpp(51,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(84,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(85,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(92,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(100,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(101,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(123,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\CS6533\HW2\HW2\main.cpp(124,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\CS6533\HW2\HW2\main.cpp(168,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\CS6533\HW2\HW2\main.cpp(205,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS6533\HW2\HW2\main.cpp(206,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS6533\HW2\HW2\main.cpp(207,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\CS6533\HW2\HW2\main.cpp(298,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\CS6533\HW2\HW2\main.cpp(298,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\CS6533\HW2\HW2\main.cpp(298,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  HW2.vcxproj -> C:\CS6533\HW2\HW2\x64\Debug\HW2.exe
